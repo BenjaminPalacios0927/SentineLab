@@ -1,0 +1,7 @@
+{
+  "host": "tu-host.proxy.rlwy.net",
+  "port": "puerto-asignado",
+  "user": "usuario-db",
+  "password": "tu-password-aqui",
+  "database": "nombre-base-datos"
+}

@@ -1,0 +1,28 @@
+# Credenciales / configuración local — NUNCA subir esto
+db.cfg
+device.cfg
+*.cfg
+!db.cfg.example
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
